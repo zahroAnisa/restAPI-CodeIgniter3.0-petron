@@ -4,7 +4,7 @@
 2. CodeIgniter 3.0+
 3. Apache but you can using XAMPP
 4. Sublime text3 for editing code
-5. Front End configuration you can look at [MyRepo](https://github.com/tnfaid/dev1_ptr_v3.0b). this is using ionic framework
+5. Front End using ionic Framework, so check this out [MyRepo](https://github.com/tnfaid/dev1_ptr_v3.0b).
 
 
 # CI-RestAPI
